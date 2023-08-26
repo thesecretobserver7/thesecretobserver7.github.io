@@ -180,17 +180,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.home]
     #  amount of RSS pages
     rss = 10
-    # Home page profile
+    # Home page profile 
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/avatar.png"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Love to be in my own imaginary world, away from the complexity of life!!!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
