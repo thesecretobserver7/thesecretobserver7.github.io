@@ -3,7 +3,16 @@
         <title>Contours of Consciousness</title>
         <link>https://thesecretobserver7.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Sep 2023 00:36:29 &#43;0900</lastBuildDate>
             <atom:link href="https://thesecretobserver7.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>The Beginning: My Journey as &#34;The Secret Observer&#34;</title>
+    <link>https://thesecretobserver7.github.io/hello_world/</link>
+    <pubDate>Thu, 14 Sep 2023 00:36:29 &#43;0900</pubDate>
+    <author>TheSecretObserver</author>
+    <guid>https://thesecretobserver7.github.io/hello_world/</guid>
+    <description><![CDATA[Endless Ocean Among the Clouds Location: [Mt. Yahiko, Niigata, Japan], Date: [Feb 24, 2023] (Copyright © [2023] [TheSecretObserver])
+I've had the desire to create an online blog for nearly a decade now. It's been a persistent dream of mine, a place where I can pour out my musings online. While I've been keeping daily journals over the years, sharing my inner thoughts on the internet feels like an entirely different challenge.]]></description>
+</item>
+</channel>
 </rss>

@@ -1,8 +1,5 @@
----
-title: 'The Beginning: My Journey as "The Secret Observer"'
-date: 2023-09-14T00:36:29+09:00
-draft: false
----
+# The Beginning: My Journey as "The Secret Observer"
+
 ![A beautiful landscape](/images/landscape.jpg)
 _Endless Ocean Among the Clouds_ 
 <sub><br/>Location: [Mt. Yahiko, Niigata, Japan], Date: [Feb 24, 2023]</sub>
