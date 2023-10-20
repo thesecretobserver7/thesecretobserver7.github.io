@@ -7,3 +7,41 @@
     font-size: 32px; /* Adjust the size as needed */
     /* You can also add other styles like font-weight, color, etc. */
 }
+
+/* Define a class for the image container */
+.image-container {
+    max-width: 100%; /* Set a maximum width to fit the screen */
+    display: flex; /* Arrange the images in a row */
+    justify-content: space-between; /* Add space between the images */
+    align-items: center; /* Vertically center the images */
+    overflow: hidden; /* Hide any overflow */
+}
+
+/* Define styles for the individual post images */
+.post-image {
+    width: 33%; /* Set width to 30% for each image */
+    max-width: 100%; /* Make sure the images don't exceed their container */
+    height: auto;
+    display: block; /* Remove any default inline styles */
+}
+
+/* Remove margin from the last image to prevent extra spacing */
+.post-image:last-child {
+    margin-right: 0;
+}
+
+/* Define a class for the text below the image */
+.image-description {
+    margin-bottom: 30px; /* Adjust the margin-top value to control the gap */
+}
+
+.image-description-middle {
+    margin-top: 20px;
+    margin-bottom: 20px; /* Adjust the margin-top value to control the gap */
+}
+
+
+
+
+
+
