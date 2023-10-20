@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering Serenity: A Journey Back to Nature"
 date: 2023-10-20T18:22:21+09:00
-draft: true
+draft: false
 ---
 
 <div class="image-container">
